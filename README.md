@@ -7,5 +7,4 @@ This repository contains my senior thesis project.
 
 To play the game open the exe file and follow the prompts shown.
 
-Short Functionality Presentation
-[BGK_SeniorProject_FinalPresentation.pptx](https://github.com/user-attachments/files/15585005/BGK_SeniorProject_FinalPresentation.pptx)
+[Short Functionality Presentation](https://github.com/user-attachments/files/15585005/BGK_SeniorProject_FinalPresentation.pptx)
